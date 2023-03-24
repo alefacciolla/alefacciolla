@@ -1,15 +1,15 @@
 - 👋 Hi, I’m Alexandre Facciolla (@alefacciolla here or @Facciolla on Twitter)
-- 👀 I’m interested in Data Driven Journalism (DDJ) and Linux enviroment - I'm using now Linux Mint 20.1 (Ulyssa) and I'm trying to work with others distributions with Virtual Box.
+- 👀 I work and am interested in Data Driven Journalism (DDJ) and Linux enviroment - I'm using now Linux Mint 20.1 (Ulyssa) and trying to work with others distributions with Virtual Box.
 
-- I’m currently learning Data Driven Journalism (DDJ) from a MBA I'm doing, and how to work with Ambiental Data as a student from Escola de Dados.
-    I'm focusing on some tools:<p>
+- I have been working as a journalist since 2009, and with data-driven journalism since 2021, when I started my post-graduation in DDJ (MBA from IDP - 2021/2022). One of my main goals is to learn and contribute to projects that work with environmental data and the climate crisis.
+    For this, the tools I have used the most are:<p>
         1 - Python programming language
             - Focused on data analysis, visualization and geodata<p>
         2 - QGIS for map visualization and data analysis<p>
-        3 - Gephi - for mapping influence network from social network data, analysis and building database for network analysis.
 
-- I’m looking to collaborate on Data Driven projects.
-- 📫 How to reach me: @Facciolla on twitter
+- I am co-author of the app and website "Brasil na COP" - https://www.brasilnacop.com/ 
+            The project - carried out in partnership with friends Nicolas Llano (@nllano) and Fábio Fleury - is based on the collection, categorization, analysis and public availability of speeches by the Brazilian government (made by its representatives) between 2004 and 2021 during the Conferences of the Parties (COP) - specifically, the speeches delivered in the high-level segment and plenary session of these conferences.
+- 📫 How to reach me: my LinkedIn profile: linkedin.com/in/alexandre-facciolla-67208b24 or on twitter (@Facciolla) and mastodon (@Facciolla@ursal.zone)
 
 <!---
 aleskywalker87/aleskywalker87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
